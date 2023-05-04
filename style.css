@@ -1,0 +1,64 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,700&display=swap');
+
+
+.titulo{
+font-family: 'Courier New', Courier, monospace;
+font-weight: 700;
+text-align: center;
+color: rgb(170, 144, 149);
+text-transform: capitalize;
+text-decoration: dashed;
+font-style: normal;
+background-color:red;
+
+
+}
+
+.sub{
+    text-align: center;
+    font-size: large;
+    font-style: unset;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    text-decoration: dashed;
+    text-transform: capitalize;
+}
+.texto{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: small;
+  color: rgb(255, 62, 4);
+  font-style: normal;
+  font-weight: 200;
+  text-decoration: dashed;
+  text-transform: lowercase;
+
+}
+.sasa{
+  text-align: center ;
+  font-size: xx-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(255, 62, 4);
+  font-weight: 100;
+  text-decoration: dotted;
+  text-transform: none;
+  font-style: oblique;
+}
+.tt{
+  color: rgb(0, 0, 0);
+  font-style: unset;
+}
+.cp{
+  font-style: italic;
+  text-align: center;
+  color: brown;
+  background-color: black
+}
+.mm{
+  font-style: italic;
+  text-align: center;
+  color: brown;
+  background-color: black;
+}
